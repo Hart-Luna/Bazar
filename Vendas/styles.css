@@ -20,9 +20,14 @@ h1:hover{
     color: #FF006E;
 }
 
-img{
+.casa{
     width: 50px;
     margin: 0;
+}
+
+.foto{
+    width: 20px;
+    margin:0;
 }
 
 nav {
